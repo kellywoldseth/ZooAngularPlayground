@@ -1,0 +1,12 @@
+p{
+    color: darkorange;
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+button{
+    background-color: orange;
+    color: darkblue;
+    margin-left: 10%;
+    border-radius: 20px;
+}
