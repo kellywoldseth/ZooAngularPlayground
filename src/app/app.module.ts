@@ -15,7 +15,7 @@ import { ZooAnimalComponent } from './zoo/zoo-animal/zoo-animal.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    //FlexLayoutModule //-- makes the entire page blank
+    FlexLayoutModule
   ],
   providers: [],
   bootstrap: [AppComponent]
